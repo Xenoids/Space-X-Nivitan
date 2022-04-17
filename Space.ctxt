@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Space\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Space.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ act()
+comment2.params=
+comment2.target=void\ add()
+comment3.params=point
+comment3.target=void\ updateHealth(int)
+comment4.params=
+comment4.target=void\ showHealth()
+comment5.params=
+comment5.target=void\ showScore()
+comment6.params=points
+comment6.target=void\ addScore(int)
+comment7.params=
+comment7.target=void\ addStar()
+comment8.params=
+comment8.target=void\ started()
+comment9.params=
+comment9.target=void\ stopped()
+numComments=11

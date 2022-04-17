@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Credit
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Credit\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Credit()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Credit.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ show()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+numComments=5
